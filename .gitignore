@@ -214,6 +214,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-/python-scripts/photos/iphone
-/python-scripts/photos/samsung
+/photos/samsung
+/photos/iphone
+*.xlsx

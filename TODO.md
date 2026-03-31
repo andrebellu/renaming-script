@@ -1,0 +1,1 @@
+- [ ] Implementare pywin32/xlwings per il ricalcolo automatico della cache Excel
