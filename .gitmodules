@@ -1,0 +1,3 @@
+[submodule "renaming-script"]
+	path = renaming-script
+	url = https://github.com/andrebellu/renaming-script
